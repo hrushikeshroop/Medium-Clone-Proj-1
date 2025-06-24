@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "my-app",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-06-24",
+
+  "vars": {
+    "DATABASE_URL":"",
+    "JWT_SECRET":""
+  }
+
+
+  
+}
